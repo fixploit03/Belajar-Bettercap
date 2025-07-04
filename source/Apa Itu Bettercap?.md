@@ -12,17 +12,17 @@
 - Menyediakan platform serangan **MITM (Man-In-The-Middle) Attack** yang **kuat** dan **modular**.
 - **Mendeteksi** dan **menganalisis** lalu lintas **jaringan** secara **real-time**.
 - Mengotomatisasi serangan jaringan dengan **scripting** dan **modul modular**.
-- Menguji ketahanan infrastruktur jaringan terhadap berbagai teknik serangan.
+- Menguji **ketahanan infrastruktur jaringan** terhadap **berbagai teknik serangan**.
 
 ### Kegunaan Utama Bettercap
-1. **ARP Spoofing & MITM**  
+1. **ARP Spoofing dan MITM**  
    Menyisipkan diri di antara **target** dan **gateway** untuk **menyadap** atau **memodifikasi** lalu lintas **jaringan**.
 2. **Sniffing Data Jaringan**  
    Menangkap **kredensial** dari **protokol tidak terenkripsi** seperti **HTTP**, **FTP**, **SMTP**, **POP3**, **dll**.
 3. **DNS Spoofing**  
-   Mengarahkan target ke **domain palsu** untuk **phishing** atau **injeksi malware**.
+   Mengarahkan **target** ke **domain palsu** untuk **phishing** atau **injeksi malware**.
 4. **HTTP/HTTPS Proxy**  
-   **Menyadap** dan **memodifikasi** permintaan dan respons **HTTP** (sering digunakan untuk **injeksi JavaScript**, **redirect**, **dll**).
+   **Menyadap** dan **memodifikasi permintaan dan respons HTTP** (sering digunakan untuk **injeksi JavaScript**, **redirect**, **dll**).
 5. **Wi-Fi Attacks**  
    Melakukan [Evil Twin Attack](https://www.anakteknik.co.id/bayurahmadi/articles/evil-twin-attack-ancaman-serangan-pada-jaringan-wifi?srsltid=AfmBOoplrN_KeYMy9TURM47fA4OF5kNsBvrgVs2hW9JiNmfxMFy1cwC_) dengan membuat [rogue access point](https://dspace.uii.ac.id/handle/123456789/23645) untuk mencuri **kredensial Wi-Fi**.
 6. **Pemindaian Jaringan (Recon)**  
@@ -34,27 +34,27 @@
 
 `Bettercap` bukan sekadar tool **sniffing** biasa, ia adalah **framework serangan jaringan real-time** yang **powerful**, **modular**, dan **fleksibel**. Dibandingkan dengan banyak tool lain, `Bettercap` menawarkan kemampuan **manipulasi** dan **otomasi** lalu lintas **jaringan** yang **sangat mendalam**.
 
-1. **Modular & Interaktif**  
+1. **Modular dan Interaktif**  
    - `Bettercap` dibangun dengan arsitektur **modular**.
    - Dapat **mengaktifkan/mematikan modul** sesuai kebutuhan (misalnya **arp.spoof**, **net.sniff**, **dns.spoof**).
    - Memiliki **CLI interaktif** seperti **terminal**, sangat cocok untuk eksplorasi langsung.
 2. **Real-time Packet Manipulation**  
    - Dapat **menyisipkan**, **mengubah**, atau **mengalihkan** lalu lintas **jaringan** secara **real-time**.
    - Cocok untuk injeksi **JavaScript**, pengalihan ke **domain palsu**, dan testing keamanan aplikasi **web** secara **langsung**.
-3. **Scripting & Otomatisasi**  
+3. **Scripting dan Otomatisasi**  
    - Mendukung **scripting** dengan **caplets** (.cap file) yang memungkinkan skenario serangan dikendalikan secara **otomatis**.
    - Mempermudah pembuatan skenario **MITM** kompleks hanya dengan **beberapa baris konfigurasi**.
 4. **Kompatibel dengan Banyak Interface**  
    - Bisa digunakan di:
      - [Ethernet](https://id.wikipedia.org/wiki/Eternet)
-     - [Wi-Fi](https://id.wikipedia.org/wiki/Wi-Fi) (mode monitor & AP)
+     - [Wi-Fi](https://id.wikipedia.org/wiki/Wi-Fi) (mode monitor dan AP)
      - [Bluetooth Low Energy](https://rexus.id/blogs/berita/apa-itu-bluetooth-ble-apa-bedanya-dengan-bluetooth-biasa?srsltid=AfmBOopmWqCKf-YhvLppUHuK63R5cQON3Xylp31P1q1_Fx_1y85M8oPX) (BLE)
      - [USB/NIC eksternal](https://id.wikipedia.org/wiki/Kartu_jaringan)
    - Mendukung berbagai **serangan** seperti **Evil Twin Attack**, **BLE sniffing**, bahkan **IoT exploration**.
-5. **Sniffing & Credential Harvesting**  
+5. **Sniffing dan Credential Harvesting**  
    - Menangkap **kredensial** dari **HTTP**, **FTP**, **SMTP**, **POP3**, **SMB**, **dll** secara **langsung**.
    - Menyediakan output yang **mudah dibaca** dan **terstruktur**.
-6. **Bypass & Serangan Lanjutan**  
+6. **Bypass dan Serangan Lanjutan**  
    - Bisa digunakan untuk:
      - Downgrade [HTTPS](https://id.wikipedia.org/wiki/HTTPS) (jika tidak [HSTS](https://codingstudio.id/blog/hsts-adalah/))
      - [DNS Spoofing](https://www.asdf.id/dns-spoofing-cara-kerja-dan-pencegahannya/)
