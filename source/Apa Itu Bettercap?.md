@@ -14,7 +14,7 @@
 - Mengotomatisasi serangan jaringan dengan **scripting** dan **modul modular**.
 - Menguji ketahanan infrastruktur jaringan terhadap berbagai teknik serangan.
 
-## Kegunaan Utama Bettercap
+### Kegunaan Utama Bettercap
 1. **ARP Spoofing & MITM**  
    Menyisipkan diri di antara **target** dan **gateway** untuk **menyadap** atau **memodifikasi** lalu lintas **jaringan**.
 2. **Sniffing Data Jaringan**  
