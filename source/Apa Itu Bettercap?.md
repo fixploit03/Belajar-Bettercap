@@ -22,17 +22,17 @@
 3. **DNS Spoofing**  
    Mengarahkan **target** ke **domain palsu** untuk **phishing** atau **injeksi malware**.
 4. **HTTP/HTTPS Proxy**  
-   **Menyadap** dan **memodifikasi permintaan dan respons HTTP** (sering digunakan untuk **injeksi JavaScript**, **redirect**, **dll**).
-5. **Wi-Fi Attacks**  
+   **Menyadap** dan **memodifikasi permintaan** dan **respons HTTP** (sering digunakan untuk **injeksi JavaScript**, **redirect**, **dll**).
+6. **Wi-Fi Attacks**  
    Melakukan [Evil Twin Attack](https://www.anakteknik.co.id/bayurahmadi/articles/evil-twin-attack-ancaman-serangan-pada-jaringan-wifi?srsltid=AfmBOoplrN_KeYMy9TURM47fA4OF5kNsBvrgVs2hW9JiNmfxMFy1cwC_) dengan membuat [rogue access point](https://dspace.uii.ac.id/handle/123456789/23645) untuk mencuri **kredensial Wi-Fi**.
-6. **Pemindaian Jaringan (Recon)**  
+7. **Pemindaian Jaringan (Recon)**  
    Mendeteksi **perangkat aktif** di **jaringan**, **port terbuka**, **layanan berjalan**, dan **informasi OS**.
-7. **Manipulasi Traffic**  
+8. **Manipulasi Traffic**  
    Mengubah **konten** halaman **web** yang dikunjungi **korban** (**HTML injection**, **redirect**, **dll**).
 
 ## C. Apa yang Membuat Bettercap Istimewa?
 
-`Bettercap` bukan sekadar tool **sniffing** biasa, ia adalah **framework serangan jaringan real-time** yang **powerful**, **modular**, dan **fleksibel**. Dibandingkan dengan banyak tool lain, `Bettercap` menawarkan kemampuan **manipulasi** dan **otomasi** lalu lintas **jaringan** yang **sangat mendalam**.
+`Bettercap` bukan sekadar **tool sniffing** biasa, ia adalah **framework serangan jaringan real-time** yang **powerful**, **modular**, dan **fleksibel**. Dibandingkan dengan banyak tool lain, `Bettercap` menawarkan kemampuan **manipulasi** dan **otomasi** lalu lintas **jaringan** yang **sangat mendalam**.
 
 1. **Modular dan Interaktif**  
    - `Bettercap` dibangun dengan arsitektur **modular**.
@@ -85,8 +85,8 @@
 
 ## E. Kesimpulan
 
-`Bettercap` adalah salah satu tool paling **powerful** dan **fleksibel** dalam dunia **cybersecurity**, khususnya untuk **pengujian keamanan jaringan lokal (LAN)**. Dengan fitur-fitur seperti **MITM attack**, **ARP spoofing**, **sniffing kredensial**, **manipulasi lalu lintas jaringan**, hingga **rogue access point**, `Bettercap` menjadi senjata andalan bagi **penetration tester**, **red team**, dan **ethical hacker**.
+`Bettercap` adalah salah satu **tool** paling **powerful** dan **fleksibel** dalam dunia **cybersecurity**, khususnya untuk **pengujian keamanan jaringan lokal (LAN)**. Dengan fitur-fitur seperti **MITM attack**, [ARP spoofing](https://kitaadmin.com/arp-spoofing-attack-pengertian-tujuan-cara-kerja-dan-mencegahnya/), [sniffing kredensial](https://cyberhub.id/pengetahuan-dasar/apa-itu-sniffing), **manipulasi lalu lintas jaringan**, hingga **rogue access point**, `Bettercap` menjadi senjata andalan bagi **penetration tester**, **red team**, dan **ethical hacker**.
 
 **Tool** ini dirancang **modular**, **real-time**, dan **mudah diotomasi** menggunakan **caplet script**, sehingga cocok untuk berbagai **skenario** mulai dari **edukasi**, **lab simulasi**, hingga **pengujian profesional**.
 
-Namun, kekuatan `Bettercap` harus digunakan secara **etis** dan **legal**. Penggunaan tanpa izin bisa menimbulkan **pelanggaran hukum serius**, termasuk **penyadapan ilegal** dan **akses jaringan tanpa wewenang**.
+Namun, kekuatan `Bettercap` harus digunakan secara **etis** dan **legal**. Penggunaan tanpa **izin** bisa menimbulkan **pelanggaran hukum serius**, termasuk **penyadapan ilegal** dan **akses jaringan tanpa wewenang**.
