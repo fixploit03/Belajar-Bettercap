@@ -206,3 +206,9 @@ docker run -it --privileged --net=host bettercap/bettercap -iface eth0
 | `-it` | **Interactive** + **TTY** (bisa ketik **command**) |
 | `--privileged` | Akses penuh ke **system resources** | 
 | `--net=host` | Pakai **network host** (akses langsung ke **interfaces**) |
+
+####
+
+### D. Dokumetasi Resmi instalasi Bettercap
+
+Untuk informasi instalasi Bettercap lebih lengkapnya lagi ada di dokumetasi resmi Bettercap-nya: [https://www.bettercap.org/installation/](https://www.bettercap.org/installation/)
