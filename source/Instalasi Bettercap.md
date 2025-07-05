@@ -23,6 +23,12 @@ sudo apt install bettercap
 
 # Verifikasi instalasi
 bettercap -version
+
+# Set capabilities agar bisa jalan tanpa sudo untuk beberapa fungsi
+sudo setcap cap_net_raw,cap_net_admin=eip /usr/bin/bettercap
+
+# Download dan install web UI
+sudo bettercap -eval "caplets.update; ui.update; q"
 ```
 
 - **Kelebihan**: Super mudah, cepat
@@ -43,6 +49,12 @@ sudo apt-get install bettercap
 
 # Verifikasi instalasi
 bettercap -version
+
+# Set capabilities agar bisa jalan tanpa sudo untuk beberapa fungsi
+sudo setcap cap_net_raw,cap_net_admin=eip /usr/bin/bettercap
+
+# Download dan install web UI
+sudo bettercap -eval "caplets.update; ui.update; q"
 ```
 
 - **Kelebihan**: Super mudah, cepat
@@ -56,6 +68,9 @@ sudo snap install bettercap
 
 # Verifikasi instalasi
 bettercap -version
+
+# Download dan install web UI
+sudo bettercap -eval "caplets.update; ui.update; q"
 ```
 
 - **Kelebihan**: Mudah, versi lebih terbaru
@@ -70,14 +85,27 @@ sudo apt update
 # Instal dependensi
 sudo apt install -y golang-go git libpcap-dev
 
+# Set GOPATH jika belum ada
+export GOPATH=$HOME/go
+export PATH=$GOPATH/bin:$PATH
+
 # Instal Bettercap langsung dari source
 go install github.com/bettercap/bettercap@latest
+
+# Pastikan binary bettercap sudah terpasang
+ls ~/go/bin/bettercap
 
 # Copy ke system path
 sudo cp ~/go/bin/bettercap /usr/local/bin/
 
 # Verifikasi instalasi
 bettercap -version
+
+# Set capabilities agar bisa jalan tanpa sudo
+sudo setcap cap_net_raw,cap_net_admin=eip /usr/local/bin/bettercap
+
+# Download dan install web UI & caplets
+sudo bettercap -eval "caplets.update; ui.update; q"
 ```
 
 - **Kelebihan**: Selalu versi terbaru, mudah update
@@ -102,6 +130,12 @@ sudo make install
 
 # Verifikasi instalasi
 bettercap -version
+
+# Set capabilities agar bisa jalan tanpa sudo untuk beberapa fungsi
+sudo setcap cap_net_raw,cap_net_admin=eip /usr/local/bin/bettercap
+
+# Download dan install web UI
+sudo bettercap -eval "caplets.update; ui.update; q"
 ```
 
 - **Kelebihan**: Full control, bisa custom compile
