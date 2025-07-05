@@ -1,13 +1,9 @@
 <h2 align="center">Repositori Belajar Bettercap</h2>
 
-![OSI (Open-Source Indonesia)](https://img.shields.io/badge/OSI-Open--Source%20Indonesia-green?logo=github)
-![Full Bahasa (Indonesia)](https://img.shields.io/badge/Bahasa-Indonesia-red)
-![Dilengkapi Screenshot](https://img.shields.io/badge/Dilengkapi-Screenshot-magenta?logo=windows)
-![Dilengkapi Video Demo](https://img.shields.io/badge/Dilengkapi-Video%20Demo-red?logo=youtube)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue)
-
 <div align="center">
   <img src="https://github.com/fixploit03/Belajar-Bettercap/blob/main/img/Bettercap.jpg" />
+
+<p>Catatan Saya <a href="https://github.com/fixploit03">Rofi [Fixploit03]</a> Dalam Belajar Tool <a href="https://www.bettercap.org/">Bettercap</a> Menggunakan Bahasa Indonesia 🇮🇩</p> 
 
 <p align="center">
   <a href="https://github.com/bettercap/bettercap">GitHub</a>
@@ -16,9 +12,23 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/martin-olivier/airgorah/wiki/Credits">Demonstrasi</a>
 </p>
-  
-  <p>Catatan Saya <a href="https://github.com/fixploit03">Rofi [Fixploit03]</a> Dalam Belajar Tool <a href="https://www.bettercap.org/">Bettercap</a> Menggunakan Bahasa Indonesia 🇮🇩</p> 
-</div>
+
+<div align="center">
+
+  <!-- Baris atas -->
+  <img src="https://img.shields.io/badge/OSI-Open--Source%20Indonesia-green?logo=github">
+  <img src="https://img.shields.io/badge/Bahasa-Indonesia-red">
+
+  <br>
+
+  <!-- Baris tengah -->
+  <img src="https://img.shields.io/badge/Dilengkapi-Screenshot-magenta?logo=windows">
+  <img src="https://img.shields.io/badge/Dilengkapi-Video%20Demo-red?logo=youtube">
+
+  <br>
+
+  <!-- Baris bawah -->
+  <img src="https://img.shields.io/badge/License-MIT-blue">
 
 ## Daftar Isi
 - **Bab 1 - [Apa Itu Bettercap?](https://github.com/fixploit03/Belajar-Bettercap/blob/main/source/Apa%20Itu%20Bettercap%3F.md)**
