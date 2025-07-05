@@ -1,4 +1,4 @@
-# Modul `any.spoof` di Bettercap
+# Modul `arp.spoof` di Bettercap
 
 ## A. Pengertian Singkat
 
