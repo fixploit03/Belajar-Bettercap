@@ -4,14 +4,14 @@
   <img src="https://github.com/fixploit03/Belajar-Bettercap/blob/main/img/Bettercap.jpg" />
 
 <p align="center">
-  <a href="https://github.com/martin-olivier/airgorah/wiki/Installation">GitHub</a>
+  <a href="https://github.com/bettercap/bettercap">GitHub</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/martin-olivier/airgorah/wiki/Usage">Dokumentasi</a>
+  <a href="https://www.bettercap.org/legacy/">Dokumentasi</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/martin-olivier/airgorah/wiki/Credits">Demonstrasi</a>
 </p>
   
-  <p>Catatan Saya <code>Rofi [Fixploit03]</code> Dalam Belajar Tool <code>Bettercap</code> Menggunakan Bahasa Indonesia 🇮🇩</p> 
+  <p>Catatan Saya <a href="https://github.com/fixploit03">Rofi [Fixploit03]</a> Dalam Belajar Tool <a href="https://www.bettercap.org/">Bettercap</a> Menggunakan Bahasa Indonesia 🇮🇩</p> 
 </div>
 
 ## Daftar Isi
