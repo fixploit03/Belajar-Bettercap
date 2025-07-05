@@ -1,4 +1,4 @@
-# Shell Interaktif Bettercap
+# Bab 6 - Shell Interaktif Bettercap
 
 ## A. Menjalankan Shell Interaktif
 
