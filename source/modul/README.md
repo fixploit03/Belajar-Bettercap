@@ -26,7 +26,7 @@ Berikut ini adalah **modul-modul** yang tersedia di `Bettercap`:
 - [ ] mdns.server
 - [ ] mysql.server
 - [ ] ndp.spoof
-- [x] net.probe
+- [x] [net.probe](https://github.com/fixploit03/Belajar-Bettercap/blob/main/source/modul/net.probe.md)
 - [x] [net.recon](https://github.com/fixploit03/Belajar-Bettercap/blob/main/source/modul/net.recon.md)
 - [ ] net.sniff
 - [ ] packet.proxy
