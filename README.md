@@ -1,6 +1,12 @@
+<h2 align="center">Repositori Belajar Bettercap</h2>
+
+![OSI (Open-Source Indonesia)](https://img.shields.io/badge/OSI-Open--Source%20Indonesia-green?logo=github)
+![Full Bahasa (Indonesia)](https://img.shields.io/badge/Bahasa-Indonesia-red)
+![Dilengkapi Screenshot](https://img.shields.io/badge/Dilengkapi-Screenshot-magenta?logo=windows)
+![Dilengkapi Video Demo](https://img.shields.io/badge/Dilengkapi-Video%20Demo-red?logo=youtube)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 
 <div align="center">
-  <h2>Repositori Belajar Bettercap</h2>
   <img src="https://github.com/fixploit03/Belajar-Bettercap/blob/main/img/Bettercap.jpg" />
 
 <p align="center">
