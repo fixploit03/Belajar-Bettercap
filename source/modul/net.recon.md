@@ -76,7 +76,7 @@ set net.show.sort sent desc
 net.show
 ```
 
-# E. Kegunaan Modul net.recon
+# E. Kegunaan Modul `net.recon`
 
 | Kegunaan | Penjelasan |
 |:--:|:--:|
