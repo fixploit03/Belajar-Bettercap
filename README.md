@@ -35,7 +35,7 @@
   - [Androind (Termux)](https://github.com/fixploit03/Belajar-Bettercap/blob/main/source/Instalasi%20Bettercap.md#b-androind-termux)
   - [Docker](https://github.com/fixploit03/Belajar-Bettercap/blob/main/source/Instalasi%20Bettercap.md#c-docker)
   - [Dokumetasi Resmi instalasi Bettercap](https://github.com/fixploit03/Belajar-Bettercap/blob/main/source/Instalasi%20Bettercap.md#d-dokumetasi-resmi-instalasi-bettercap)
-- [Struktur Lengkap Perintah CLI Bettercap]()
+- [Struktur Lengkap Perintah CLI Bettercap](https://github.com/fixploit03/Belajar-Bettercap/blob/main/source/Struktur%20Lengkap%20Perintah%20CLI%20Bettercap.md)
   - [Menu Help Bettercap](https://github.com/fixploit03/Belajar-Bettercap/blob/main/source/Struktur%20Lengkap%20Perintah%20CLI%20Bettercap.md#a-menu-help-bettercap)
   - [Contoh Penggunaan Umum](https://github.com/fixploit03/Belajar-Bettercap/blob/main/source/Struktur%20Lengkap%20Perintah%20CLI%20Bettercap.md#b-contoh-penggunaan-umum)
   - [Contoh Praktis](https://github.com/fixploit03/Belajar-Bettercap/blob/main/source/Struktur%20Lengkap%20Perintah%20CLI%20Bettercap.md#c-contoh-praktis)
