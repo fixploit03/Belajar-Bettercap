@@ -1,34 +1,36 @@
 <h2 align="center">Repositori Belajar Bettercap</h2>
 
 <div align="center">
-  <img src="https://github.com/fixploit03/Belajar-Bettercap/blob/main/img/Bettercap.jpg" />
+  <img src="https://github.com/fixploit03/Belajar-Bettercap/blob/main/img/Bettercap.jpg" alt="Banner Bettercap" />
+  
+  <p>
+    Catatan Saya <a href="https://github.com/fixploit03">Rofi [Fixploit03]</a> Dalam Belajar Tool 
+    <a href="https://www.bettercap.org/">Bettercap</a> Menggunakan Bahasa Indonesia 🇮🇩
+  </p> 
 
-<p>Catatan Saya <a href="https://github.com/fixploit03">Rofi [Fixploit03]</a> Dalam Belajar Tool <a href="https://www.bettercap.org/">Bettercap</a> Menggunakan Bahasa Indonesia 🇮🇩</p> 
+  <p>
+    <a href="https://github.com/bettercap/bettercap">GitHub</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="https://www.bettercap.org/legacy/">Dokumentasi</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/martin-olivier/airgorah/wiki/Credits">Demonstrasi</a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/bettercap/bettercap">GitHub</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.bettercap.org/legacy/">Dokumentasi</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/martin-olivier/airgorah/wiki/Credits">Demonstrasi</a>
-</p>
-
-<div align="center">
-
-  <!-- Baris atas -->
+  <!-- Badge: baris atas -->
   <img src="https://img.shields.io/badge/OSI-Open--Source%20Indonesia-green?logo=github">
   <img src="https://img.shields.io/badge/Bahasa-Indonesia-red">
 
   <br>
 
-  <!-- Baris tengah -->
+  <!-- Badge: baris tengah -->
   <img src="https://img.shields.io/badge/Dilengkapi-Screenshot-magenta?logo=windows">
   <img src="https://img.shields.io/badge/Dilengkapi-Video%20Demo-red?logo=youtube">
 
   <br>
 
-  <!-- Baris bawah -->
+  <!-- Badge: baris bawah -->
   <img src="https://img.shields.io/badge/License-MIT-blue">
+</div>
 
 ## Daftar Isi
 - **Bab 1 - [Apa Itu Bettercap?](https://github.com/fixploit03/Belajar-Bettercap/blob/main/source/Apa%20Itu%20Bettercap%3F.md)**
