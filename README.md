@@ -1,8 +1,17 @@
 
 <div align="center">
-  <h2>Repositori</h2>
+  <h2>Repositori Belajar Bettercap</h2>
   <img src="https://github.com/fixploit03/Belajar-Bettercap/blob/main/img/Bettercap.jpg" />
-  <p>Belajar Tool Bettercap Dalam Bahasa Indonesia 🇮🇩</p> 
+
+<p align="center">
+  <a href="https://github.com/martin-olivier/airgorah/wiki/Installation">GitHub</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/martin-olivier/airgorah/wiki/Usage">Dokumentasi</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/martin-olivier/airgorah/wiki/Credits">Credits</a>
+</p>
+  
+  <p>Catatan Saya <code>Rofi [Fixploit03]</code> Dalam Belajar Tool <code>Bettercap</code> Menggunakan Bahasa Indonesia 🇮🇩</p> 
 </div>
 
 ## Daftar Isi
