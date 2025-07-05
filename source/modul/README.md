@@ -2,6 +2,8 @@
 
 > **Informasi**: Disini saya menggunakan `Bettercap` versi `v2.33.0` yang diinstal melalui package manager ([APT](https://en.wikipedia.org/wiki/APT_(software))) [Kali Linux](https://www.kali.org/) dengan versi **Kali Linux** `2025.2`.
 
+![](https://github.com/fixploit03/Belajar-Bettercap/blob/main/img/versi%20bettercap.png)
+
 Berikut ini adalah **modul-modul** yang tersedia di `Bettercap`:
  
 - [ ] any.proxy
