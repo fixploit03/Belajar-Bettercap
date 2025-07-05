@@ -21,7 +21,7 @@
 - [ ] mysql.server
 - [ ] ndp.spoof
 - [ ] net.probe
-- [ ] net.recon
+- [x] net.recon
 - [ ] net.sniff
 - [ ] packet.proxy
 - [x] syn.scan
