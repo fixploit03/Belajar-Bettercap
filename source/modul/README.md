@@ -1,5 +1,9 @@
 # Modul yang Tersedia
 
+> **Informasi**: Disini saya menggunakan `Bettercap` versi `v2.33.0` yang diinstal melalui package manager ([APT](https://en.wikipedia.org/wiki/APT_(software))) [Kali Linux](https://www.kali.org/) dengan versi **Kali Linux** `2025.2`.
+
+Berikut ini adalah **modul-modul** yang tersedia di `Bettercap`:
+ 
 - [ ] any.proxy
 - [ ] api.rest
 - [ ] arp.spoof
