@@ -1,4 +1,4 @@
-# Kegunaan dan Fungsi Bettercap dalam Penetration Testing
+# Bab 3 - Kegunaan dan Fungsi Bettercap dalam Penetration Testing
 
 [Bettercap](https://www.bettercap.org/) adalah **framework serangan jaringan** yang sangat **powerful** dan **modular**, digunakan oleh para **penetration tester** untuk **mengeksploitasi kelemahan komunikasi jaringan** dan **mengumpulkan informasi sensitif**. `Bettercap` mendukung berbagai **skenario serangan** dalam **uji penetrasi**, terutama pada fase [reconnaissance](https://widyasecurity.com/2025/06/03/apa-itu-reconnaissance-dalam-tahapan-penetration-testing/), [exploitation](https://widyasecurity.com/2024/01/09/apa-itu-exploit-penjelasan-jenis-dan-pencegahannya/), dan [post-exploitation](https://www.proweb.co.id/articles/penetration-testing/post-exploitation.html).
 
