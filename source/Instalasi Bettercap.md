@@ -2,7 +2,7 @@
 
 ## A. Linux (Debian/Ubuntu Based)
 
-### Persyaratan
+### Persyaratan:
 - `build-essential`
 - `libpcap-dev`
 - `libusb-1.0-0-dev`
@@ -109,7 +109,7 @@ bettercap -version
 
 ## B. Androind (Termux)
 
-### Persyaratan
+### Persyaratan:
 - Device harus **ROOT** (tidak bisa tanpa root)
 - Instal [Termux](https://termux.dev/en/) dari [F-Droid](https://f-droid.org/en/) (bukan Google Play Store)
 
@@ -170,7 +170,7 @@ go build -o bettercap .
 
 ## C. Docker
 
-### Persyaratan
+### Persyaratan:
 
 - [Docker versi 17.05+](https://www.docker.com/) (untuk multi-stage build)
 - **Linux** host dengan akses **network**
