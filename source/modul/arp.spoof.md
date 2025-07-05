@@ -27,7 +27,7 @@ Modul `arp.spoof` di [Bettercap](https://www.bettercap.org/) digunakan untuk mel
 
 ### 1. Target Satu IP
 
-Spoof hanya **1 korban**:
+**Spoof** hanya **1 korban**:
 
 ```
 set arp.spoof.targets 192.168.1.20
