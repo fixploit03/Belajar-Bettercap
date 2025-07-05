@@ -22,7 +22,7 @@ Berikut adalah **parameter** yang dapat kamu sesuaikan sebelum atau saat menjala
 | `any.proxy.iface` | Interface yang digunakan untuk melakukan redirect. | `<interface aktif>` |
 | `any.proxy.protocol` | Protokol yang digunakan ([TCP](https://id.wikipedia.org/wiki/Protokol_Kendali_Transmisi)/[UDP](https://id.wikipedia.org/wiki/Protokol_Datagram_Pengguna)).	| `TCP` |
 | `any.proxy.src_address` | Alamat sumber dari mana trafik akan diintersepsi. Jika kosong, semua alamat akan diproses. | (kosong) |
-| `any.proxy.src_port` | **Port** atau **rentang port sumber** yang ingin dialihkan ke **proxy**. **Bisa satu**, **banyak** (dipisah koma), atau **range** | (misalnya `80,443,8000-8100`). | `80` |
+| `any.proxy.src_port` | **Port** atau **rentang port sumber** yang ingin dialihkan ke **proxy**. **Bisa satu**, **banyak** (dipisah koma), atau **range** (misalnya `80,443,8000-8100`). | `80` |
 
 ## D. Contoh Penggunaan
 
