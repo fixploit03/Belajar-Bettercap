@@ -84,15 +84,16 @@ net.sniff on
 ### 2. Sniff dan HTTP Proxy:
 
 ```
+set net.sniff.verbose true
+net.sniff on
 http.proxy on
-net.sniff.verbose true
 ```
 
 ### 3. DNS Spoof:
 
 ```
-set dns.spoof.domains example.com
-set dns.spoof.address 192.168.1.11
+set dns.spoof.domains <nama_domain>
+set dns.spoof.address <ip_address_target>
 dns.spoof on
 ```
 
