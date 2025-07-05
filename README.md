@@ -8,7 +8,7 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/martin-olivier/airgorah/wiki/Usage">Dokumentasi</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/martin-olivier/airgorah/wiki/Credits">Credits</a>
+  <a href="https://github.com/martin-olivier/airgorah/wiki/Credits">Demonstrasi</a>
 </p>
   
   <p>Catatan Saya <code>Rofi [Fixploit03]</code> Dalam Belajar Tool <code>Bettercap</code> Menggunakan Bahasa Indonesia 🇮🇩</p> 
