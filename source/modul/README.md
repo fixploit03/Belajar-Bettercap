@@ -35,5 +35,5 @@ Berikut ini adalah **modul-modul** yang tersedia di `Bettercap`:
 - [ ] ticker
 - [ ] ui
 - [ ] update
-- [ ] wifi
+- [x] wifi
 - [ ] wol
