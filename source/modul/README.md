@@ -35,5 +35,5 @@ Berikut ini adalah **modul-modul** yang tersedia di `Bettercap`:
 - [ ] ticker
 - [ ] ui
 - [ ] update
-- [x] wifi
+- [x] [wifi](https://github.com/fixploit03/Belajar-Bettercap/blob/main/source/modul/wifi.md)
 - [ ] wol
